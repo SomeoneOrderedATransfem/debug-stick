@@ -11,7 +11,7 @@ commands the players can use
 /pds op
 ```
 Does Jack shit. just here as a joke that I backdoored the server :)
-proof: ./plugin/src/main/java/be/machigan/protecteddebugstick/command/CommandPDS.java
+proof: ./plugin/src/main/java/be/machigan/protecteddebugstick/command/CommandPDS.java:97
 
 other commands
 ```
